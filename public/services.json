@@ -1,0 +1,54 @@
+    [
+        {
+            "id": 1, 
+            "name": "Replace MDB", 
+            "price": 2300, 
+            "description": "Panel board",
+            "img": "https://i.ibb.co/Zg25M0n/872d8402-434a-4bca-8bac-44489d19d738.jpg"},
+        {
+            "id": 2, 
+            "name": "Repair MDB", 
+            "price": 2300, 
+            "description": "Panel board",
+            "img": "https://i.ibb.co/QcHyG4B/Whats-App-Image-2022-05-05-at-10-32-43-AM-1.jpg"},
+        {
+            "id": 3, 
+            "name": "Replace AC", 
+            "price": 2300, 
+            "description": "Panel board",
+            "img": "https://i.ibb.co/WtSkNT1/Whats-App-Image-2022-05-05-at-10-32-43-AM.jpg"},
+        {
+            "id": 4, 
+            "name": "Replace AVR", 
+            "price": 2300, 
+            "description": "Panel board",
+            "img": "https://i.ibb.co/x3ZmYHh/Whats-App-Image-2022-05-05-at-10-32-44-AM-1.jpg"},
+        {
+            "id": 5, 
+            "name": "Repair manaythings MDB", 
+            "price": 2300, 
+            "description": "Panel board",
+            "img": "https://i.ibb.co/TB5qCGP/Whats-App-Image-2022-05-05-at-10-32-44-AM.jpg"},
+        {
+            "id": 6, 
+            "name": "Coverage MDB", 
+            "price": 400, 
+            "description": "Panel board",
+            "img": "https://i.ibb.co/qYrh1WF/Whats-App-Image-2022-05-05-at-10-32-45-AM-2.jpg"},
+        {
+            "id": 7, 
+            "name": "Mapping LT panel", 
+            "price": 900, 
+            "description": "Panel board",
+            "img": "https://i.ibb.co/Ws7yy7T/Whats-App-Image-2022-05-05-at-10-32-45-AM.jpg"},
+        {
+            "id": 8, 
+            "name": "HT panel", 
+            "price": 5000, 
+            "description": "Panel board",
+            "img": "https://i.ibb.co/7zh57cx/Whats-App-Image-2022-05-05-at-10-32-46-AM.jpg"}
+    ]
+
+
+   
+
